@@ -1,31 +1,14 @@
 {
-  "name": "alurageek-api",
+  "name": "alura-geek",
   "version": "1.0.0",
-  "description": "Products for Alura Geek fake store api",
+  "description": "challenge-alura",
   "main": "index.js",
   "scripts": {
-    "start": "node api/server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/SofiDevO/alurageek-API.git"
-  },
-  "keywords": [
-    "alura",
-    "alurageek",
-    "json-server",
-    "javascript",
-    "API"
-  ],
-  "author": "Sofidev, contact@itssofi.dev",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/SofiDevO/alurageek-API/issues"
-  },
-  "homepage": "https://github.com/SofiDevO/alurageek-API#readme",
+  "author": "Alexis Steven Palomino Almeyda",
+  "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
-    "json-serve": "^0.1.0",
-    "json-server": "^0.17.3"
+    "json-server": "^1.0.0-beta.1"
   }
 }
